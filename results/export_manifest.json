@@ -1,0 +1,51 @@
+{
+  "created": "2026-05-25T17:44:48",
+  "figures": [
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/fixed_timestep_rk4_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/fixed_timestep_rk4_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/adaptive_timestep_rk4_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/adaptive_timestep_rk4_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/long_merger_original_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/long_merger_original_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/optimised_long_run_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/optimised_long_run_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/differential_rotation_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/differential_rotation_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/interesting_showcase_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/interesting_showcase_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/rk4_integrator_comparison_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/rk4_integrator_comparison_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/euler_integrator_comparison_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/euler_integrator_comparison_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/playground_best_merger_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/playground_best_merger_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/playground_case_0_head-on_low_values_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/playground_case_0_head-on_low_values_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/playground_case_1_grazing_merger_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/playground_case_1_grazing_merger_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/playground_case_2_fly_through_snapshots.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/playground_case_2_fly_through_final_state.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/rk4_energy_conservation.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/rk4_integrator_energy.png",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/figures/euler_integrator_energy.png"
+  ],
+  "animations": [
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/fixed_timestep_rk4.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/adaptive_timestep_rk4.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/long_merger_original.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/optimised_long_run.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/differential_rotation.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/interesting_showcase.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/rk4_integrator_comparison.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/euler_integrator_comparison.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/playground_best_merger.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/playground_case_0_head-on_low_values.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/playground_case_1_grazing_merger.mp4",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/animations/playground_case_2_fly_through.mp4"
+  ],
+  "data": [
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/data/playground_current_parameters.json",
+    "/Users/williamwall/Documents/Amsterdam/UvA/Period5/Computational/Comp_Project/results/data/playground_multi_parameters.json"
+  ],
+  "notes": []
+}
